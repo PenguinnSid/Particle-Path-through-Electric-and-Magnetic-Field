@@ -36,7 +36,7 @@ Calculation:
 The position vector is then plotted in 3D space to provide the actual path of the particle under the influence of the electric and magnetic field.
 
 How to use:
-  Download the ipynb file and upload it in a google colab notebook(simpler)/jupyter notebook.
-  Tune the vectors to your liking.
-  Run the program (Ctrl+F9).
-  Select the particle you want to simulate the trajectory of(1/2/3).
+  1. Download the ipynb file and upload it in a google colab notebook(simpler)/jupyter notebook.
+  2. Tune the vectors to your liking.
+  3. Run the program (Ctrl+F9).
+  4. Select the particle you want to simulate the trajectory of(1/2/3).
