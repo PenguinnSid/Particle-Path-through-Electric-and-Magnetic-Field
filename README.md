@@ -34,3 +34,9 @@ Calculation:
   The Positions are appended into a vector that stores the x,y and z positions of the particle at each timestep.
 
 The position vector is then plotted in 3D space to provide the actual path of the particle under the influence of the electric and magnetic field.
+
+How to use:
+  Download the ipynb file and upload it in a google colab notebook(simpler)/jupyter notebook.
+  Tune the vectors to your liking.
+  Run the program (Ctrl+F9).
+  Select the particle you want to simulate the trajectory of(1/2/3).
